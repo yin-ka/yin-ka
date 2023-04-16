@@ -24,4 +24,4 @@
 
 
 
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=adams-ghub&show_icons=true)](https://github.com/yin-ka/github-readme-stats)
+[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yin-ka&show_icons=true)](https://github.com/yin-ka/github-readme-stats)
