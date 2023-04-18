@@ -20,7 +20,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yin-ka&show_icons=true&locale=en&layout=compact" alt="aminabuhari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yin-ka&" alt="yin-ka" /></p>
-
-
-
-[![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=yin-ka&show_icons=true)](https://github.com/yin-ka/github-readme-stats)
