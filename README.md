@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">  A lifelong learner </h3>
 
-- 🔭 I’m currently working on **Reacts**
+- 🔭 I’m currently working on **Ruby**
 
 - 📫 How to reach me **sholotanyusuf14@gmail.com**
 
