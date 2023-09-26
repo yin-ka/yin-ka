@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Yusuf</h1>
+<h1 align="center">Hi 👋, I'm Yusuf</h1>
 <h3 align="center">  A lifelong learner </h3>
 
 - 🔭 I’m currently working on **Rails**
