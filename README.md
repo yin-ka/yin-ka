@@ -22,3 +22,12 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yin-ka&" alt="yin-ka" /></p>
+
+<hr>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/kubaho3" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Kubaho3 buy me a coffee" width="230"></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=yin-ka" alt="yin-ka"/>       
+</p>
