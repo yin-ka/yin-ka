@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/holar_yhinkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sholotan Yusuf" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yusuf-sholotan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sholotan Yusuf" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sholotanyusuf14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SholotanYusuf" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sholotanyusuf14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SholotanYusuf" height="30" width="50" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
